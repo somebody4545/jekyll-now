@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Old Blog
 published: true
 ---
-# First jekyll blog (yay)
+[Old blog link](Somebody4545.tk/blog)
